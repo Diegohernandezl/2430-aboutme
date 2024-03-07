@@ -33,15 +33,23 @@ h1 {
 }
 
 h2 {
+<<<<<<< HEAD
     font-style: italic;
     border-bottom: 0.1em solid #2f5a57;
     padding: 0.5em;
+=======
+    text-shadow: 0.02em 0.04em #d351c2;
+    border-bottom: 0.1em solid #66D7D1;
+    padding: 0.75em;
+>>>>>>> index-styles
     margin: 1.6em 0;
     color: #2f5a57;
 }
 
 section p {
     text-indent: 2.8em;
+    line-height: 1.6em;
+    margin-bottom: 2em;
 }
 
 .project {
